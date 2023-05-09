@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Abu Dhabi",
+    "desc": "Je suis la capitale d'un pays riche en pétrole,\nMon nom signifie \"père de la gazelle\",\nJe suis située sur une île du Golfe Persique,\nJe suis... Qui suis-je ?",
+    "image": "",
+    "point": 0
+  },
+  {
+    "id": 2,
+    "name": "Addis-Abeba",
+    "desc": "Je suis la capitale d'un pays africain,\nMon nom signifie \"nouvelle fleur\",\nJe suis située à une altitude de plus de 2 300 mètres,\nJe suis... Qui suis-je ?",
+    "image": "",
+    "point": 0
+  },
+  {
+    "id": 3,
+    "name": "Alger",
+    "desc": "Je suis la capitale d'un pays d'Afrique du Nord,\nMon nom vient du mot arabe pour \"les îles\",\nJe suis située sur une baie de la mer Méditerranée,\nJe suis... Qui suis-je ?",
+    "image": "",
+    "point": 0
+  },
+  {
+    "id": 4,
+    "name": "Amman",
+    "desc": "Je suis la capitale d'un pays du Moyen-Orient,\nMon nom signifie \"endroit sûr pour le bétail\",\nJe suis située sur des collines de basalte,\nJe suis... Qui suis-je ?",
+    "image": "",
+    "point": 0
+  }
+
+ ]
